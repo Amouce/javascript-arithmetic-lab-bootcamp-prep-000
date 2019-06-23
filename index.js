@@ -1,5 +1,5 @@
 var a = Math.floor(Math.random() * 1000), b = Math.floor(Math.random() * 1000), string= 'a',
-n = '0x2328', c='sldkjflksjf', d= '2.222'
+n = 'sldkjflksjf', d= '2.222'
 
 function add(a,b) {
   return (a+b)
@@ -38,8 +38,8 @@ function preserveDecimal(n){
     parseFloat (n)
 }
 
-function makeInt(c){
-parseInt (c)
-return(c)
+function makeInt(n){
+parseInt (n)
+return(n)
 }
 
