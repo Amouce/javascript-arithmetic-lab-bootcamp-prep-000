@@ -1,5 +1,5 @@
 var a = Math.floor(Math.random() * 1000), b = Math.floor(Math.random() * 1000), string= 'a',
-n = 'sldkjflksjf', 
+n = 'sldkjflksjf' 
 
 function add(a,b) {
   return (a+b)
