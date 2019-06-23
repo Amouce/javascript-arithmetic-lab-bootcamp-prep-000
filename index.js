@@ -46,17 +46,3 @@ parseInt (c)
 return(c)
 }
 
-n =2.222
-function preserveDecimal(n){
-   parseFloat (n)
-  return (n)
-}
-
-n='0x2328'
-function makeInt(n){
-return (n)
-parseInt (n, 10)
-
-
-
-}
