@@ -36,9 +36,6 @@ n ='sldkjflksjf'
 function preserveDecimal(n){
     return (n)
     parseFloat (n)
-
-
-
 }
 
 function makeInt(c){
