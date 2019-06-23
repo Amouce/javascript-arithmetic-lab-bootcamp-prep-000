@@ -46,7 +46,7 @@ parseInt (c)
 return(c)
 }
 
-n ='2.222'
+n =2.222
 function preserveDecimal(n){
    parseFloat (n)
   return (n)
