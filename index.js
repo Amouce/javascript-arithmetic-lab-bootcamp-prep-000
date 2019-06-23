@@ -52,6 +52,7 @@ function preserveDecimal(n){
   return (n)
 }
 
+n='0x2328'
 function makeInt(n){
 return (n)
 parseInt (n, 10)
